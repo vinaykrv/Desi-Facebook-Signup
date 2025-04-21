@@ -60,6 +60,6 @@ open index.html     # For macOS
 ## 🧑‍💻 Author
 
 Made with ❤️ by Vinay Kumar Vishwakarma  
-This is my first basic development project. More awesome stuff coming soon!
+This is my first basic development project. More awesome stuff coming soon.
 
 
