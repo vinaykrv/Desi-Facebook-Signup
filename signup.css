@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #4f8ce8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.signup-form {
+    background: rgb(235, 165, 165);
+    padding: 25px;  
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height : auto;
+    
+    
+}
+
+.signup-form h2 {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #0e5eaa;
+
+    transition: 0.5s;
+
+}
+
+.signup-form h2:hover {
+    transform: scale(1.1);
+    
+
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+input {
+    width: 92%;
+    padding: 10px;
+    border: 5px solid #6d6d6d;
+    border-radius: 20px;
+    font-size: 14px;
+    transition: 0.3s ease-in-out;   /* Smooth transition for transform */
+
+}
+
+/* Add focus effect without breaking original styles */
+input:focus {
+    outline: none;
+    border-color: #0e5eaa;
+    transform: scale(1.1);
+    box-shadow: 0 0 8px rgba(14, 94, 170, 0.4);
+    background-color: #f9fbff;
+
+}
+
+
+.error {
+    color: red;
+    font-size: 13px;
+}
+
+button {
+    margin: 10px;
+    width: 95%;
+    padding: 10px;
+    background: #007bff;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;                    /* finger symbol when click */
+    font-size: 16px;
+}
+
+button:hover {
+    background: #11a51d;
+    transform: scale(1.1);
+    transition: 0.5s;
+    border: none;
+    /* border-color: greenyellow; */
+    box-shadow: 0 0 8px rgba(232, 3, 3, 0.977);
+}
+
+
+  
+
+
+
