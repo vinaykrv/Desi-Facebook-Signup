@@ -63,3 +63,11 @@ Made with ❤️ by Vinay Kumar Vishwakarma
 This is my first basic development project. More awesome stuff coming soon.
 
 
+---
+
+## License
+
+This project is licensed under the [MIT License](licence).  
+Feel free to use, modify, and distribute — but give proper credit!
+
+
