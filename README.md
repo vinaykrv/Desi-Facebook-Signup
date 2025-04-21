@@ -32,13 +32,13 @@ A simple and interactive signup form inspired by Facebook, built using **HTML**,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/desi-facebook-signup.git
+git clone https://github.com/vinaykrv/Desi-Facebook-Signup.git
 ```
 
 2. Open the folder:
 
 ```bash
-cd desi-facebook-signup
+cd Desi-Facebook-Signup
 ```
 
 3. Launch the project by opening `index.html` in your browser:
@@ -52,9 +52,9 @@ open index.html     # For macOS
 
 ## 📷 Preview
 
-```markdown
-![Signup Form Screenshot](./ss.png)
-```
+markdown
+![Signup Form Screenshot](ss.png)
+
 
 ---
 
