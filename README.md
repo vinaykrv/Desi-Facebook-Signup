@@ -53,7 +53,7 @@ open index.html     # For macOS
 ## 📷 Preview
 
 ```markdown
-![Signup Form Screenshot](ss.png)
+![Signup Form Screenshot](./ss.png)
 ```
 
 ---
